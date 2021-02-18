@@ -1,0 +1,5 @@
+chin,0,41
+forehead,0,28
+nose,0,2
+cheeks,0,14
+eyes,0,17
